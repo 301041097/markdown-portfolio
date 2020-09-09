@@ -1,1 +1,12 @@
-Replace this with a list of your favorite things.
+1. Ordered Item 1
+2. Ordered Item 2 
+   1. Ordered Item2a 
+- unordered item 1 
+* unordered item 2 
+   * unordered item 2.1 
+* emoji test
+   * :heart:
+   * :moon: 
+   * :sunflower:
+   * :smile:
+   
